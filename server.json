@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/pref_rs_tres_coroas_cnd-mcp",
+  "title": "Prefeitura RS Três Coroas: Certidão Negativa de Débitos",
+  "description": "Prefeitura RS Três Coroas: Clearance Certificate (Debts), official-source lookup. Platform-hosted, p",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/pref_rs_tres_coroas_cnd-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_pref_rs_tres_coroas_cnd"
+    }
+  ]
+}
